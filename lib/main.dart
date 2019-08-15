@@ -60,7 +60,7 @@ Widget _buildTextComposer(){
               controller: _textController,
               onSubmitted: _handleSubmitted,
               decoration: new InputDecoration.collapsed(
-                hintText: "Write your message!"
+                hintText: "¡Escribe tu mensaje!"
         ),
       ),
       
