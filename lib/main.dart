@@ -40,7 +40,7 @@ class ChatScreenState extends State<ChatScreen>{
   @override
   Widget build(BuildContext context) {
     return new Scaffold(
-      appBar: new AppBar(title: new Text("Friendlychat")),
+      appBar: new AppBar(title: new Text("Chat amigable")),
       body: _buildTextComposer(),
     );
   }
